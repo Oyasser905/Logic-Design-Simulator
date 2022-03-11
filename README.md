@@ -13,6 +13,7 @@ A user-friendly logic design simulator to test and design logic circuits written
 ## Sample Circuits
   ### Circuit 1
   ![Circuit](https://drive.google.com/file/d/1RXWUKu4QOxqgWWmzaD4JI8rs2ZOFZkzH/view)
+  
   ![Truth Table](https://drive.google.com/file/d/1SGGswBo-WT2is-EaWhTn4C07wd_2UVfI/view)
   
   
